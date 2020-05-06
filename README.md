@@ -3,16 +3,16 @@ trellis / bedrock / sage install
 
 ### dependencies
 
-Composer
-Virtualbox >= 4.3.10
-Vagrant >= 2.1.0
-Yarn
+Composer  
+Virtualbox >= 4.3.10  
+Vagrant >= 2.1.0  
+Yarn  
 
 ### links
 
-https://roots.io/
-https://roots.io/docs/trellis/master/installation/
-https://roots.io/docs/sage/9.x/installation/
+https://roots.io/  
+https://roots.io/docs/trellis/master/installation/  
+https://roots.io/docs/sage/9.x/installation/  
 
 ### trellis
 ```
