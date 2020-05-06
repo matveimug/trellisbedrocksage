@@ -1,5 +1,5 @@
 # trellisbedrocksage
-trellis / bedrock / sage commands
+trellis / bedrock / sage install
 
 
 ```
